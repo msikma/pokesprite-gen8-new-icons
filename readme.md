@@ -2,7 +2,7 @@ Repository for tagging icons for [PokéSprite](https://github.com/msikma/pokespr
 
 Please feel free to tag any of the unknown images, using the same naming system as in the existing [pokesprite/icons](https://github.com/msikma/pokesprite/tree/master/icons) directory.
 
-See the 'Issues' tab.
+See the [tagging page on the wiki](https://github.com/msikma/pokesprite-gen8-new-icons/wiki/Tagging-project) to get started.
 
 This repository will be removed after issue #54 is fixed.
 
